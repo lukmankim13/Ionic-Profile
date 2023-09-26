@@ -1,0 +1,7 @@
+{
+  "name": "profile_picture",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
